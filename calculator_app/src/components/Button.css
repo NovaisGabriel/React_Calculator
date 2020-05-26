@@ -26,7 +26,7 @@
 
 .button.operation {
     background-color: cadetblue;
-    color: #FFF
+    color: #FFF;
 }
 
 .button.operation:active {
